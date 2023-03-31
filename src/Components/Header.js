@@ -6,7 +6,6 @@ class Header extends Component {
   render() {
     if (!this.props.data) return null;
 
-    const project = this.props.data.project;
     const github = this.props.data.github;
     const name = this.props.data.name;
     const description = this.props.data.description;
@@ -56,15 +55,15 @@ class Header extends Component {
               <h1 className="responsive-headline">{name}</h1>
             </Fade>
             <Fade bottom duration={1200}>
-              <h3>{description}.</h3>
+              <h3>{description}</h3>
             </Fade>
             <hr />
             <Fade bottom duration={2000}>
-              <ul className="social">
-                <a href={github} className="button btn github-btn">
+              <div className="social">
+                <a href={github} className="button btn github-btn" target="_blank" rel="noreferrer">
                   <i className="fa fa-github"></i>Github
                 </a>
-              </ul>
+              </div>
             </Fade>
           </div>
         </div>

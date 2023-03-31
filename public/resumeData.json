@@ -1,20 +1,20 @@
 {
   "main": {
     "name":"Jackie Pederson",
-    "description":"Full-stack web developer and innovative problem-solver who is passionate about developing apps and continuous learning of new technologies. Strengths in communication, collaboration, and building projects from ideation to execution. Please feel free to look around this portfolio site and reach out",
+    "description":"Experienced Full Stack Web Developer/Software Engineer. Please feel free to look around this portfolio site and reach out",
     "image":"profilePicture.png",
-    "bio":"With my engineering degree and software development experience, I enjoy solving problems with innovative solutions in technology. While I have refined my soft-skills through working collaboratively at my current job, I have recently acquired technical skills through the completition of the Coding Boot Camp through University of Texas - Austin. I have enjoyed learning software development techniques, and I am looking forward to applying them in a more direct way as I begin my career in the tech industry.",
+    "bio":"With my engineering degree and software development experience, I feel confident in being a contrinuting member of a team.",
     "contactmessage":"You can connect with me through these ways;",
     "email": "jackie.pederson2015@gmail.com",
     "phone": "832-483-2609",
     "github":"https://github.com/JackieHodges",
-    "project":"https://github.com/JackieHodges/React-Portfolio",
+    "project":"https://jackiehodges.github.io/personal-portfolio/",
     "address":{
       "city":"Houston",
       "state":"Texas",
       "zip": "77043"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "https://jackiehodges.github.io/personal-portfolio/",
     "resumedownload":"PedersonResume.pdf",
     "social":[
       {
