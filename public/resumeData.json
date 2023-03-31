@@ -1,184 +1,160 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "name":"Jackie Pederson",
+    "description":"Full-stack web developer and innovative problem-solver who is passionate about developing apps and continuous learning of new technologies. Strengths in communication, collaboration, and building projects from ideation to execution. Please feel free to look around this portfolio site and reach out",
+    "image":"profilePicture.png",
+    "bio":"With my engineering degree and software development experience, I enjoy solving problems with innovative solutions in technology. While I have refined my soft-skills through working collaboratively at my current job, I have recently acquired technical skills through the completition of the Coding Boot Camp through University of Texas - Austin. I have enjoyed learning software development techniques, and I am looking forward to applying them in a more direct way as I begin my career in the tech industry.",
+    "contactmessage":"You can connect with me through these ways;",
+    "email": "jackie.pederson2015@gmail.com",
+    "phone": "832-483-2609",
+    "github":"https://github.com/JackieHodges",
+    "project":"https://github.com/JackieHodges/React-Portfolio",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city":"Houston",
+      "state":"Texas",
+      "zip": "77043"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"PedersonResume.pdf",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/jackiehodgespederson/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/JackieHodges",
         "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Below are some of my skills I have acquired:",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
+        "school":"Texas A&M University - College Station",
+        "degree":"BS in Biological & Agricultural Engineering",
+        "graduated":"December 2015",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
+        "school":"University of Texas - Austin",
+        "degree":"Coding Boot Camp",
+        "graduated":"June 2021",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Olea Edge Analytics",
+        "title":"Software Developer",
+        "years":"May 2022 - March 2023",
+        "description": [
+          "Developed and implemented features and reusable components such as a sharing modal, drag and drop functionality, responsive layouts, feature flagging, etc.",
+          "Assisted in trouble shooting, resolving issues, and writing unit tests.", 
+          "Provided feedback in code reviews while also fostering an environment of open communication and continued education with other team members.",
+          "Collaborated with cross functional teams such as back-end team members, customer experience leads, and product managers to define deliverables and associated timeline estimations.",
+          "Participated in sprint planning, task decomposition, and daily stand ups to ensure deliverables were being met."
+        ]
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Trinity Operating - Subsidiary of NextEra Energy",
+        "title":"Environmental Specialist",
+        "years":"January 2016 - May 2022",
+        "description":[
+          "Managed environmental due diligence associated with over 2,000 upstream wells prior to acquisition.",
+          "Coordinated remediation efforts to ensure that environmental releases were delineated, remediated, and closed out with the necessary governmental entities within specified time frames and budgets ranging from $10,000 to $5MM.",
+          "Assisted in building out software solution -- Maximo and OneEx -- to assist with tracking and closing out of submitted work orders.", 
+          "Coordinated with various internal business units to advise about environmental risks associated with various stages of projects."
+        ]
       }
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
+        "name":"React",
+        "level":"100%"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
+        "name":"JavaScript",
+        "level":"100%"
+      },
+            {
+        "name":"TypeScript",
+        "level":"100%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name":"Jira",
+        "level":"100%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name":"Git",
+        "level":"100%"
       },
       {
-        "name":"PHP",
-        "level":"80%"
+        "name":"GitLab/GitHub",
+        "level":"100%"
       },
       {
-        "name":"Swift",
-        "level":"50%"
+        "name":"HTML/CSS",
+        "level":"100%"
       },
       {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"Tailwind",
+        "level":"100%"
+      },
+      {
+        "name":"Bootstrap",
+        "level":"100%"
+      },
+      {
+        "name":"Figma",
+        "level":"100%"
+      },
+      {
+        "name":"Auth0",
+        "level":"100%"
+      },
+      {
+        "name":"Node.js",
+        "level":"100%"
+      },
+      {
+        "name":"Express",
+        "level":"100%"
+      },
+      {
+        "name":"mySQL & Sequelize",
+        "level":"100%"
+      },
+      {
+        "name":"No SQL, MongoDB, & Mongoose",
+        "level":"100%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Where's The Party At?",
+        "description":"Where's The Party At (WTPA) is an application that assists in trip planning for groups. It allows users to create, invite, and consolidate conversations and polling to a single app.",
+        "image":"wtpa.png",
+        "deployed":"https://wtpa.herokuapp.com/",
+        "project_github": "https://github.com/JackieHodges/WTPA"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"WeekDaze",
+        "description":"WeekDaze is an application that tracks a users job search status. It allows for the user to have a log in, add new job leads, add milestones per each lead, and view a graphic of the amount of days its been since they have applied to a job.",
+        "image":"jobDashboard.png",
+        "deployed":"https://arcane-harbor-21800.herokuapp.com/",
+        "project_github": "https://github.com/JackieHodges/WeekDaze"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"WeatherTunes",
+        "description":"WeatherTunes is an application that curates a music playlist based on the user entered city current weather condition.",
+        "image":"weathertunes.png",
+        "deployed":"https://jackiehodges.github.io/WeatherTunes/",
+        "project_github": "https://github.com/JackieHodges/WeatherTunes"
       }
     ]
   }
